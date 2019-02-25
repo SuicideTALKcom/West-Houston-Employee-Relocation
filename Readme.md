@@ -18,7 +18,7 @@
 
 - Zillow API
        newly listed homes in Houston area
-       https://www.zillow.com/howto/api/APIOverview.ht
+       https://www.zillow.com/howto/api/APIOverview.htm
        From SQL zip codes, use Zillow API to pull newly listed homes
         
      - Home Address
