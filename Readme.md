@@ -8,22 +8,23 @@
 
 ## Data sets you intend to use
 
-- Zipcode SQL – West Houston zip codes
+- Zipcode SQL - West Houston zip codes
         https://www.zipcodeapi.com/API#radiusSql
         Zip codes in 10-15 mile radius from 77079 “central zip code”
 
 - Har.com Web Scrape – neighborhood name 
         https://www.har.com/neighborhoods/byzip
-        From the SQL zip codes, use results to web scrape neighborhood names
+        From SQL zip codes, use results to web scrape neighborhood names
 
-- Zillow API – newly listed homes in Houston area
-        https://www.zillow.com/howto/api/APIOverview.ht
-        From SQL zip-codes, use Zillow API to pull newly listed homes
+- Zillow API
+       newly listed homes in Houston area
+       https://www.zillow.com/howto/api/APIOverview.ht
+       From SQL zip codes, use Zillow API to pull newly listed homes
         
-        - Home Address
-        - Listed Within Past 30 Days
-        - Zip Code
-        - Price
+     - Home Address
+     - Listed Within Past 30 Days
+     - Zip Code
+     - Price
 
 ## What useful investigation could be done with the final database
 
