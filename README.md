@@ -1,4 +1,3 @@
-
 # Newly Listed Houston Homes West of 610
 
 ## Proposal
