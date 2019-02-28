@@ -1,31 +1,35 @@
+# Newly Listed Houston Homes West of 610
 
-## Proposal: New Home Postings West of 610 Houston
-
-## Your name (and partner if Duo)
+## Proposal
         
 * Margret Saniel 
 * Doug Newsom
 
 ## Data sets you intend to use
 
-- Zipcode SQL – zipcodeapi.com
+- Zipcode SQL - West Houston zip codes
         https://www.zipcodeapi.com/API#radiusSql
-        10-15 mile radius from 77079 “central zip-code”
+        Zip codes in 10 mile radius from 77079 “central zip code”
 
-- Har.com WebScrape – neighborhood name 
+- Har.com Web Scrape – neighborhood name 
         https://www.har.com/neighborhoods/byzip
-        From the SQL zip-codes, use results to web scrape neighborhood names
+        From SQL zip codes, use results to web scrape neighborhood names
 
-- Zillow API – newly listed homes in Houston area
-        https://www.zillow.com/howto/api/APIOverview.htm
-        From SQL zip-codes, use Zillow API to pull newly listed homes
-
+- Zillow API
+       listed homes sold in Houston area
+       https://www.zillow.com/howto/api/APIOverview.htm
+       From SQL zip codes, use Zillow API to pull sold homes
+        
+     - Home Address
+     - Listed Within Past 90 Days
+     - Zip Code
+     - Price
 
 ## What useful investigation could be done with the final database
 
-* Assist with employee relocation to expedite the process of newly listed homes in West Houston.
+* Assist with employee relocation to expedite the process of finding newly listed homes in West Houston.
 
 
 ## Whether final DB will be relational or nonrelational, and why
 
-* All datasets/sources used for this project will be relational due to the organized, homogeneous structure of datasets. 
+* The final DB for this project will be relational due to the organized, homogeneous structure of datasets. 
